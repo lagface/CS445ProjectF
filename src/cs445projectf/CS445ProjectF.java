@@ -15,11 +15,13 @@ package cs445projectf;
 
 public class CS445ProjectF {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        System.out.println("godblessanime");
+        boolean dreams = false;
+        while(true) {
+            if (dreams == false) {break;} 
+            System.out.println("anime is real");
+        }
+            System.out.println("buhbye dreams");
     }
     
 }
